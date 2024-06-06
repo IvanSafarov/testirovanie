@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-30T11:53:05 OMST" name="Surefire suite" finished-at="2024-04-30T11:53:17 OMST" duration-ms="12322">
+    <groups>
+    </groups>
+    <test started-at="2024-04-30T11:53:05 OMST" name="Surefire test" finished-at="2024-04-30T11:53:17 OMST" duration-ms="12322">
+      <class name="TriangleTest">
+        <test-method signature="giveUpThePuzzle()[pri:0, instance:TriangleTest@7f9fcf7f]" started-at="2024-04-30T11:53:05 OMST" name="giveUpThePuzzle" finished-at="2024-04-30T11:53:17 OMST" duration-ms="12247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giveUpThePuzzle -->
+      </class> <!-- TriangleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
